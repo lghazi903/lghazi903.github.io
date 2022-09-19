@@ -11,5 +11,7 @@ p {color: #222;}
  body {height:100%;}
 # container {min-height:100%;
 margin:0 auto;}
-
+#logo {float:left;}
+#nav {float:right;}
+header: after {display:table; clear:both;}
   
