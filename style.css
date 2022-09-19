@@ -1,17 +1,1 @@
-body {background-color: #000000;
-margin:0;
-font-family: 'Work Sans', sans-serif;
-font-weight:300;}
-header {background: #55d6aa;}
-p {color: #222;}
-# nav-table {width:800px;}
-# nav-td {width: 1/3px; text-align:center;}
-{margin:0;
-  padding:0;}
- body {height:100%;}
-# container {min-height:100%;
-margin:0 auto;}
-#logo {float:left;}
-#nav {float:right;}
-header: after {display:table; clear:both;}
-  <p style="background-image: url('background.jpeg');">
+
