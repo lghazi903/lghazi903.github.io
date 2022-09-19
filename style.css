@@ -2,3 +2,10 @@ body {background-color: #000000;}
 p {color: #FFFFFF;}
 # nav-table {width:800px;}
 # nav-td {width: 1/3px; text-align:center;}
+{margin:0;
+  padding:0;}
+html, body {height:100%;}
+# container {min-height:100%;}
+# main {overflow: auto;
+padding-bottom:100px}
+  
