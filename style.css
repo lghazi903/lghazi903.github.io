@@ -7,5 +7,10 @@ font-weight:300;
 container{
  width:80%;
  margin:0 auto;}
-header{ background-color:#F699CD;}
-h1{color: #ADD8E6;}
+nav{ float:right;}
+nav ul{
+ margin: 0;
+ padding:0;
+ list-style:none;}
+nav li{
+ display: inline-block;}
