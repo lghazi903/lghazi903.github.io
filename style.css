@@ -1,2 +1,9 @@
- body {background-color:#000000;
-  p {color: #FFFFFF;}
+body {
+ margin:0;
+ background-color:#000000;
+font-family:'Work Sams', sans-serif;
+font-weight:300;
+}
+container{
+ width:80%;
+ margin:0 auto;}
